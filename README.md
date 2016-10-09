@@ -58,4 +58,4 @@ The distributed operation layer (DOL) is a software development framework to pro
 ![image](https://cloud.githubusercontent.com/assets/22701016/19220355/184c3172-8e5e-11e6-98fc-2c54e3b71ac0.PNG)
 
 ##Experimental experience
-实验中，在安装DOL的过程中由于粗心，在修改build_zip.xml文件的时候把路径写错了，导致运行第一个例子的时候失败了，还好后来根据错误提示找到了原因。使用Git进行版本控制，并将仓库托管在 Github上的过程中，学会使用了markdown这样比较方便美观的编辑器，还学会了如何使用Github创建仓库，并通过远程连接将文件传到远程仓库中，虽然对DOL的整体框架还不是十分了解，但是随着进一步的实验，相信以后会逐渐掌握。
+实验中，在安装DOL的过程中由于粗心，在修改build_zip.xml文件的时候把路径写错了，导致运行第一个例子的时候失败了，还好后来根据错误提示找到了原因。使用Git进行版本控制，并将仓库托管在 Github上的过程中，学会使用了markdown这样比较方便美观的编辑器，还学会了如何使用Github创建仓库，并通过远程连接将文件传到远程仓库中，虽然对DOL的整体框架还不是十分了解，但是随着进一步的实验，相信以后会逐渐掌握。# ES2016_14353395
