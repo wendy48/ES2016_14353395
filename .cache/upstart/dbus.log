@@ -6,3 +6,11 @@
 ** (process:2473): WARNING **:   dir: /home/zhang/.local/share/Trash/files, file: ES2016_14353395, type: 1
 
 
+module-cache-reaper-Message: Reaping abandoned data directories
+module-cache-reaper-Message: Reaping abandoned cache directories
+
+** (process:2473): WARNING **: *** Unsupported operation detected on trash directory
+
+** (process:2473): WARNING **:   dir: /home/zhang/.local/share/Trash/files, file: ES2016_14353395.2, type: 1
+
+

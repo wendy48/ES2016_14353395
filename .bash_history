@@ -91,3 +91,58 @@ git remote add origin https://github.com/wendy48/ES2016_14353395.git
 git add README.md
 git commit -m "message"
 git commit -m "message1"
+git remote add origin https://github.com/wendy48/ES2016_14353395.git
+git add README.md
+git commit -m "change"
+git push origin master
+git add README.md
+git clone https://github.com/wendy48/ES2016_14353395
+git remote add origin https://github.com/wendy48/ES2016_14353395.git
+git add README.md
+git commit -m "change1"
+git push origin master
+git add -all
+git add -a
+git add --all
+git add README.md
+git add -A 
+git commit -m "change2"
+git push origin master
+git fetch
+git push origin master
+git pull
+git push origin master
+git remote add origin https://github.com/wendy48/ES2016_14353395.git
+git clone https://github.com/wendy48/ES2016_14353395
+git add 1.PNG
+git add 2.PNG
+git add 3.PNG
+cd ES2016_14353395
+git add 1.PNG
+git add 2.PNG
+git add 3.PNG
+git add 
+
+git add 6.PNG
+cd
+git commit -m "change"
+git push origin master
+cd ES2016_14353395
+git commit -m "change1"
+git push origin maste
+cd
+git push origin maste
+git init
+git push origin maste
+git pull origin master
+cd ES2016_14353395
+git add README.cd
+cd
+git add ES2016_14353395/README.cd
+git add ES2016_14353395/README.md
+git commit -m "change1"
+cd ES2016_14353395
+git commit -m "change1"
+git push origin maste
+cd
+git pull --rebase origin master
