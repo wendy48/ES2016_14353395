@@ -23,11 +23,14 @@ The distributed operation layer (DOL) is a software development framework to pro
       `$	cd objdir`
 * 运行configure(能根据系统的环境设置一下参数，用于编译)
       `$	../configure CXX=g++ --disable-async-updates`
+![image](https://cloud.githubusercontent.com/assets/22701016/19220354/18498242-8e5e-11e6-85bf-650cfcba3094.PNG)
 * 编译
  `$	sudo make install`
 * 记录当前的工作路径
  `$	pwd`
-###5.编译dol
+
+	![image](https://cloud.githubusercontent.com/assets/22701016/19220352/1846e406-8e5e-11e6-9ffb-485047a3b5cf.PNG)
+###5.编译dol  
 * 进入刚刚dol的文件夹
 `$	cd ../dol`  修改build_zip.xml文件
        
@@ -36,9 +39,13 @@ The distributed operation layer (DOL) is a software development framework to pro
      `<property name="systemc.inc" value="YYY/include"/>`
      `<property name="systemc.lib" value="YYY/lib-linux/libsystemc.a"/>`
 
-     把YYY改成pwd的结果（注意，对于  64位 系统的机器，lib-linux要改成lib-linux64）
+     把YYY改成pwd的结果如下：
+
+    ![image](https://cloud.githubusercontent.com/assets/22701016/19220351/1845cd82-8e5e-11e6-959f-5f68ae254c10.PNG)
 * 然后是编译
 `$	ant -f build_zip.xml all` 若成功会显示build successful
+
+    ![image](https://cloud.githubusercontent.com/assets/22701016/19220353/18479e6e-8e5e-11e6-86b6-1b99ac465c2d.PNG)
 
      接着可以试试运行第一个例子
 
@@ -46,8 +53,8 @@ The distributed operation layer (DOL) is a software development framework to pro
 `$	cd build/bin/main`
 
      然后运行第一个例子
-`$	ant -f runexample.xml -Dnumber=1`
-
-
+`$	ant -f runexample.xml -Dnumber=1` 结果如下：
+![image](https://cloud.githubusercontent.com/assets/22701016/19220355/184c3172-8e5e-11e6-98fc-2c54e3b71ac0.PNG)
 
 ##Experimental experience
+实验中，在安装DOL的过程中由于粗心，在修改build_zip.xml文件的时候把路径写错了，导致运行第一个例子的时候失败了，还好后来根据错误提示找到了原因。使用Git进行版本控制，并将仓库托管在 Github上的过程中，学会使用了markdown这样比较方便美观的编辑器，还学会了如何使用Github创建仓库，并通过远程连接将文件传到远程仓库中，虽然对DOL的整体框架还不是十分了解，但是随着进一步的实验，相信以后会逐渐掌握。
