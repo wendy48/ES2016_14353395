@@ -1,0 +1,20 @@
+logrotate state -- version 2
+"/home/zhang/.cache/upstart/dbus.log" 2016-10-9-9:14:13
+"/home/zhang/.cache/upstart/update-notifier-cds.log" 2016-10-3-9:11:38
+"/home/zhang/.cache/upstart/gnome-session-Unity.log" 2016-10-9-9:14:13
+"/home/zhang/.cache/upstart/window-stack-bridge.log" 2016-10-9-9:14:13
+"/home/zhang/.cache/upstart/im-config.log" 2016-10-9-9:14:13
+"/home/zhang/.cache/upstart/unity-settings-daemon.log" 2016-10-9-9:14:13
+"/home/zhang/.cache/upstart/at-spi2-registryd.log" 2016-10-8-0:38:11
+"/home/zhang/.cache/upstart/gnome-keyring-gpg.log" 2016-10-9-9:14:13
+"/home/zhang/.cache/upstart/indicator-bluetooth.log" 2016-10-9-2:10:24
+"/home/zhang/.cache/upstart/upstart-event-bridge.log" 2016-10-9-2:10:24
+"/home/zhang/.cache/upstart/indicator-session.log" 2016-10-9-2:10:24
+"/home/zhang/.cache/upstart/unity-panel-service.log" 2016-10-9-9:14:13
+"/home/zhang/.cache/upstart/ssh-agent.log" 2016-10-9-9:14:13
+"/home/zhang/.cache/upstart/indicator-power.log" 2016-10-9-9:14:13
+"/home/zhang/.cache/upstart/indicator-printers.log" 2016-10-8-0:38:11
+"/home/zhang/.cache/upstart/gnome-keyring-ssh.log" 2016-10-9-9:14:13
+"/home/zhang/.cache/upstart/indicator-sound.log" 2016-10-9-9:14:13
+"/home/zhang/.cache/upstart/unity7.log" 2016-10-9-9:14:13
+"/home/zhang/.cache/upstart/update-notifier-release.log" 2016-10-9-9:14:13

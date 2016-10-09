@@ -1,0 +1,202 @@
+c C1 10 o generator 0xbf9ecdd0O i square 0xbf9ecdd0I
+c C2 10 o square 0xbf9ece78O i consumer 0xbf9ece78I
+0 generator started.
+1 generator w 0xbf9ecdd0O 4
+2 generator stopped.
+3 consumer started.
+4 consumer r 0xbf9ece78I 4
+5 square started.
+6 square r 0xbf9ecdd0I 4
+7 square w 0xbf9ece78O 4
+8 square stopped.
+9 consumer stopped.
+10 generator started.
+11 generator w 0xbf9ecdd0O 4
+12 generator stopped.
+13 square started.
+14 square r 0xbf9ecdd0I 4
+15 square w 0xbf9ece78O 4
+16 square stopped.
+17 consumer started.
+18 consumer r 0xbf9ece78I 4
+19 consumer stopped.
+20 generator started.
+21 generator w 0xbf9ecdd0O 4
+22 generator stopped.
+23 square started.
+24 square r 0xbf9ecdd0I 4
+25 square w 0xbf9ece78O 4
+26 square stopped.
+27 consumer started.
+28 consumer r 0xbf9ece78I 4
+29 consumer stopped.
+30 generator started.
+31 generator w 0xbf9ecdd0O 4
+32 generator stopped.
+33 square started.
+34 square r 0xbf9ecdd0I 4
+35 square w 0xbf9ece78O 4
+36 square stopped.
+37 consumer started.
+38 consumer r 0xbf9ece78I 4
+39 consumer stopped.
+40 generator started.
+41 generator w 0xbf9ecdd0O 4
+42 generator stopped.
+43 square started.
+44 square r 0xbf9ecdd0I 4
+45 square w 0xbf9ece78O 4
+46 square stopped.
+47 consumer started.
+48 consumer r 0xbf9ece78I 4
+49 consumer stopped.
+50 generator started.
+51 generator w 0xbf9ecdd0O 4
+52 generator stopped.
+53 square started.
+54 square r 0xbf9ecdd0I 4
+55 square w 0xbf9ece78O 4
+56 square stopped.
+57 consumer started.
+58 consumer r 0xbf9ece78I 4
+59 consumer stopped.
+60 generator started.
+61 generator w 0xbf9ecdd0O 4
+62 generator stopped.
+63 square started.
+64 square r 0xbf9ecdd0I 4
+65 square w 0xbf9ece78O 4
+66 square stopped.
+67 consumer started.
+68 consumer r 0xbf9ece78I 4
+69 consumer stopped.
+70 generator started.
+71 generator w 0xbf9ecdd0O 4
+72 generator stopped.
+73 square started.
+74 square r 0xbf9ecdd0I 4
+75 square w 0xbf9ece78O 4
+76 square stopped.
+77 consumer started.
+78 consumer r 0xbf9ece78I 4
+79 consumer stopped.
+80 generator started.
+81 generator w 0xbf9ecdd0O 4
+82 generator stopped.
+83 square started.
+84 square r 0xbf9ecdd0I 4
+85 square w 0xbf9ece78O 4
+86 square stopped.
+87 consumer started.
+88 consumer r 0xbf9ece78I 4
+89 consumer stopped.
+90 generator started.
+91 generator w 0xbf9ecdd0O 4
+92 generator stopped.
+93 square started.
+94 square r 0xbf9ecdd0I 4
+95 square w 0xbf9ece78O 4
+96 square stopped.
+97 consumer started.
+98 consumer r 0xbf9ece78I 4
+99 consumer stopped.
+100 generator started.
+101 generator w 0xbf9ecdd0O 4
+102 generator stopped.
+103 square started.
+104 square r 0xbf9ecdd0I 4
+105 square w 0xbf9ece78O 4
+106 square stopped.
+107 consumer started.
+108 consumer r 0xbf9ece78I 4
+109 consumer stopped.
+110 generator started.
+111 generator w 0xbf9ecdd0O 4
+112 generator stopped.
+113 square started.
+114 square r 0xbf9ecdd0I 4
+115 square w 0xbf9ece78O 4
+116 square stopped.
+117 consumer started.
+118 consumer r 0xbf9ece78I 4
+119 consumer stopped.
+120 generator started.
+121 generator w 0xbf9ecdd0O 4
+122 generator stopped.
+123 square started.
+124 square r 0xbf9ecdd0I 4
+125 square w 0xbf9ece78O 4
+126 square stopped.
+127 consumer started.
+128 consumer r 0xbf9ece78I 4
+129 consumer stopped.
+130 generator started.
+131 generator w 0xbf9ecdd0O 4
+132 generator stopped.
+133 square started.
+134 square r 0xbf9ecdd0I 4
+135 square w 0xbf9ece78O 4
+136 square stopped.
+137 consumer started.
+138 consumer r 0xbf9ece78I 4
+139 consumer stopped.
+140 generator started.
+141 generator w 0xbf9ecdd0O 4
+142 generator stopped.
+143 square started.
+144 square r 0xbf9ecdd0I 4
+145 square w 0xbf9ece78O 4
+146 square stopped.
+147 consumer started.
+148 consumer r 0xbf9ece78I 4
+149 consumer stopped.
+150 generator started.
+151 generator w 0xbf9ecdd0O 4
+152 generator stopped.
+153 square started.
+154 square r 0xbf9ecdd0I 4
+155 square w 0xbf9ece78O 4
+156 square stopped.
+157 consumer started.
+158 consumer r 0xbf9ece78I 4
+159 consumer stopped.
+160 generator started.
+161 generator w 0xbf9ecdd0O 4
+162 generator stopped.
+163 square started.
+164 square r 0xbf9ecdd0I 4
+165 square w 0xbf9ece78O 4
+166 square stopped.
+167 consumer started.
+168 consumer r 0xbf9ece78I 4
+169 consumer stopped.
+170 generator started.
+171 generator w 0xbf9ecdd0O 4
+172 generator stopped.
+173 square started.
+174 square r 0xbf9ecdd0I 4
+175 square w 0xbf9ece78O 4
+176 square stopped.
+177 consumer started.
+178 consumer r 0xbf9ece78I 4
+179 consumer stopped.
+180 generator started.
+181 generator w 0xbf9ecdd0O 4
+182 generator stopped.
+183 square started.
+184 square r 0xbf9ecdd0I 4
+185 square w 0xbf9ece78O 4
+186 square stopped.
+187 consumer started.
+188 consumer r 0xbf9ece78I 4
+189 consumer stopped.
+190 generator started.
+191 generator w 0xbf9ecdd0O 4
+192 generator stopped.
+193 square started.
+194 square r 0xbf9ecdd0I 4
+195 square w 0xbf9ece78O 4
+196 square stopped.
+197 consumer started.
+198 consumer r 0xbf9ece78I 4
+199 consumer stopped.

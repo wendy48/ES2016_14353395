@@ -1,0 +1,19 @@
+digraph pn {
+
+    ratio = auto;
+    rankdir = LR;
+    ranksep = 0.3;
+    nodesep = 0.2;
+    center = true;
+    
+    node [ fontsize=12, height=0.4, width=0.4, style=filled, color="0.65 0.20 1.00" ];
+    edge [ fontsize=10, arrowhead=normal, arrowsize=0.8, style="setlinewidth(2)" ];
+
+    "generator" [ label="generator", color=lightskyblue, shape=diamond ];
+    "consumer" [ label="consumer", color=lightskyblue, shape=diamond ];
+    "square" [ label="square", color=lightskyblue, shape=ellipse ];
+
+    "generator" -> "square" [ label="C1", color=lightblue3 ];
+    "square" -> "consumer" [ label="C2", color=lightblue3 ];
+
+}

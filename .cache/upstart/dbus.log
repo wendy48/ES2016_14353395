@@ -1,0 +1,8 @@
+
+** (process:2473): WARNING **: *** Unsupported operation detected on trash directory
+
+** (process:2473): WARNING **:     A trash files/ directory should only have files linked or unlinked (via moves or deletes).  Some other operation has been detected on a file in the directory (eg: a file has been modified).  Likely, the data reported by the trash backend will now be inconsistent.
+
+** (process:2473): WARNING **:   dir: /home/zhang/.local/share/Trash/files, file: ES2016_14353395, type: 1
+
+
